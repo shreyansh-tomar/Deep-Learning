@@ -1,5 +1,5 @@
 # Deep-Learning
-This repo contains all the completed, upcoming projects related to Deep Learning
+This repo contains all the completed,upcoming projects related to Deep Learning
 
 All the project uses Jupyter NoteBooks. 
 Some projects are Developed in Google Colab Enviornment(**Free Cloud Service based on Jupyter Notebooks that supports FREE GPU** *How Cool is that!!*).
@@ -10,3 +10,6 @@ For more information [Google Colab](https://colab.research.google.com/notebooks/
 
 ### Anaconda on a local machine with GPU can also used to train and run the model
 >For Anaconda installation instructions [click here](https://docs.anaconda.com/anaconda/install/)
+
+
+**_EDIT_**: Learning resources will be added soon. Thanks.
