@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Implemented the [Neural-Style algorithm](https://arxiv.org/abs/1508.06576) developed by Leon A. Gatys, Alexander S. Ecker and Matthias Bethge. 
 Neural-Style, or Neural-Transfer, allows you to take an image and reproduce it with a new artistic style. The algorithm 
