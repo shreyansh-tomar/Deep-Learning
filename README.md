@@ -13,3 +13,6 @@ For more information [Google Colab](https://colab.research.google.com/notebooks/
 
 
 **_EDIT_**: Learning resources will be added soon. Thanks.
+
+# Contact:
+[LinkedIn](https://www.linkedin.com/in/shreyansh-tomar/)
