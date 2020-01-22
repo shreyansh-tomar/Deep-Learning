@@ -14,5 +14,7 @@ For more information [Google Colab](https://colab.research.google.com/notebooks/
 
 **_EDIT_**: Learning resources will be added soon. Thanks.
 
-# Contact:
+#### Contact:
 [LinkedIn](https://www.linkedin.com/in/shreyansh-tomar/)
+[Facebook](https://www.facebook.com/shreyanshtomar007)
+[Instagram](https://www.instagram.com/shreyansh__tomar/)
