@@ -12,4 +12,9 @@ For more information [Google Colab](https://colab.research.google.com/notebooks/
 >For Anaconda installation instructions [click here](https://docs.anaconda.com/anaconda/install/)
 
 
-**_EDIT_**: Learning resources will be added soon. Thanks.
+**_EDIT_**: **_Learning resources will be added soon. Thanks_**.
+
+#### Contact:
+[<img src="https://img.icons8.com/nolan/64/linkedin.png">](https://www.linkedin.com/in/shreyansh-tomar/)
+[<img src="https://img.icons8.com/nolan/64/facebook-new.png">](https://www.facebook.com/shreyanshtomar007)
+[<img src="https://img.icons8.com/nolan/64/instagram-new.png">](https://www.instagram.com/shreyansh__tomar/)
